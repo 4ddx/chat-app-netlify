@@ -3,7 +3,7 @@ import { auth, db } from "../firebase";
 import { addDoc, collection, serverTimestamp } from "firebase/firestore";
 
 const style = {
-  form: `top-0 h-14 w-full max-w-[828px] flex text-xl bottom-0`,
+  form: `h-14 w-full max-w-[828px] flex text-xl absolute bottom-0`,
   input: `w-full text-xl p-3 bg-gray-900 text-white outline-none border-none`,
   button: `w-[20%] text-white bg-blue-500`,
 };
