@@ -6,7 +6,7 @@ import Chat from "./components/Chat";
 
 const style = {
   appContainer: `max-w-[828px] mx-auto text-center`,
-  sectionContainer: `flex flex-col h-[90vh] bg-gray-300 mt-10 shadow-xl border relative`
+  sectionContainer: `flex flex-col h-[85vh] bg-gray-300 mt-10 shadow-xl border relative`
 }
 
 function App() {
